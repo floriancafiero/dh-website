@@ -65,11 +65,13 @@ memoires:
     titre: "Dynamiques et diffusion de discours de haine dans la sphère réactionnaire française sur YouTube au moment de l’élection présidentielle de 2022 : approches par l’analyse de réseau et l’apprentissage profond"
     etudiant: "Romain Verny"
     codirecteur: "Marie Puren, Samuel Bouron"
-  - niveau: "M2"
-    titre: "Mémoire de master Humanités numériques"
+  - annee: 2021
+    niveau: "M2"
+    titre: "La mise en visibilité du problème climatique dans les médias en ligne : le cas de la mort de George Floyd"
     etudiant: "Tanguy Ruault"
     codirecteur: "David Chavalarias"
-  - niveau: "M1"
+  - annee: 2023
+    niveau: "M1"
     titre: "Twitter : ID et idées"
     etudiant: "Reda Tamtam"
     codirecteur: "Mehdi Arfaoui"
