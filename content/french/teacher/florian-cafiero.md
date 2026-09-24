@@ -48,6 +48,14 @@ memoires:
     niveau: "M1"
     titre: "Le Caesar Act et ses effets sur l’économie syrienne : sanctions, effondrement formel et essor du trafic de captagon"
     etudiant: "Garance Raynaud"
+  - annee: 2026
+    niveau: "M1"
+    titre: "Polluants éternels, autorités divergentes : la mobilisation de l’incertitude scientifique sur les PFAS dans les débats parlementaires français et américains"
+    etudiant: "Marisol de Nazelle"
+  - annee: 2026
+    niveau: "M1"
+    titre: "Le Caesar Act et ses effets sur l’économie syrienne : sanctions, effondrement formel et essor du trafic de captagon"
+    etudiant: "Garance Raynaud"
   - annee: 2025
     niveau: "M2"
     titre: "Automatic Detection Of Viral Disinformation Narratives"
