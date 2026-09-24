@@ -18,6 +18,7 @@ disciplines:
 cours:
   - "M1 - Méthodes quantitatives en sciences humaines et sociales"
   - "M2 - Philologie computationnelle"
+  - "M1 - Computational Literary Studies"
 memoires:
   - annee: 2026
     niveau: "M2"
