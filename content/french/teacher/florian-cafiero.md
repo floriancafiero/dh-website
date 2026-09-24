@@ -48,14 +48,6 @@ memoires:
     niveau: "M1"
     titre: "Le Caesar Act et ses effets sur l’économie syrienne : sanctions, effondrement formel et essor du trafic de captagon"
     etudiant: "Garance Raynaud"
-  - annee: 2026
-    niveau: "M1"
-    titre: "Polluants éternels, autorités divergentes : la mobilisation de l’incertitude scientifique sur les PFAS dans les débats parlementaires français et américains"
-    etudiant: "Marisol de Nazelle"
-  - annee: 2026
-    niveau: "M1"
-    titre: "Le Caesar Act et ses effets sur l’économie syrienne : sanctions, effondrement formel et essor du trafic de captagon"
-    etudiant: "Garance Raynaud"
   - annee: 2025
     niveau: "M2"
     titre: "Automatic Detection Of Viral Disinformation Narratives"
@@ -94,4 +86,8 @@ memoires:
     codirecteur: "David Chavalarias"
 ---
 
-Florian Cafiero est maître de conférences au Laboratoire de recherche de l’EPITA, chercheur associé au Centre Jean-Mabillon de l’École nationale des chartes – PSL et chercheur affilié au Center for Digital Humanities and Multilateralism du Geneva Graduate Institute. Ses recherches se situent au croisement de l’intelligence artificielle, des humanités numériques et des sciences sociales computationnelles. Elles portent notamment sur l’analyse des formes linguistiques, stylistiques et discursives, l’attribution d’auteur, le traitement automatique de corpus historiques et les méthodes d’IA pour l’exploration de grandes collections documentaires. Docteur en sociologie de Sciences Po, il est ancien élève de l’ENS Paris-Saclay et diplômé de l’École nationale des chartes.
+Florian Cafiero est maître de conférences en intelligence artificielle pour les sciences humaines et sociales au Laboratoire de recherche de l’EPITA (LRE) et chercheur associé au Centre Jean-Mabillon de l’École nationale des chartes – PSL. Il est co-PI de [CultureLab](https://www.culturelab.psl.eu/), programme de recherche de l’Université PSL consacré aux humanités et sciences sociales computationnelles, aux dynamiques culturelles et aux nouvelles méthodes d’analyse des corpus et du patrimoine.
+
+Il est également professeur invité au [Center for Digital Humanities and Multilateralism (CDHM)](https://www.graduateinstitute.ch/cdhm), laboratoire du Geneva Graduate Institute (GGI) et des Nations Unies à Genève. Il y développe notamment des recherches sur l’application de l’intelligence artificielle aux archives des organisations internationales et participe au projet *Minutes of Multilateralism*, consacré à l’exploration numérique des archives de la Société des Nations et des Nations Unies.
+
+Ses recherches se situent au croisement de l’intelligence artificielle, des humanités numériques et des sciences sociales computationnelles. Elles portent notamment sur l’analyse des formes linguistiques, stylistiques et discursives, l’attribution d’auteur, le traitement automatique de corpus historiques et les méthodes d’IA pour l’exploration de grandes collections documentaires. Docteur en sociologie de Sciences Po, il est ancien élève de l’ENS Paris-Saclay et diplômé de l’École nationale des chartes.
